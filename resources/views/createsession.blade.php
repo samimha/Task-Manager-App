@@ -18,6 +18,7 @@
             <input type="password" class="form-control" id="password" name="password" placeholder="Text..." required>
         </div>
 
+        <!--submit-->
         <div class="form-group">
             <button type="submit" class="btn btn-default">Login</button>
         </div>
