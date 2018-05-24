@@ -25,6 +25,8 @@ Route::get('/login','SessionController@create');
 Route::post('/login','SessionController@store');
 Route::get('/logout','SessionController@destroy');
 
+//User
+Route::get('/user{user}','UserController@index');
 
 //Doesn't use controller
 //Welcome
