@@ -5,5 +5,5 @@ The project is mostly based on a Laracast tutorial [Laravel From Scratch](https:
 
 ## Install & prerequisities
 
-The first few [(1-4)](https://laracasts.com/series/laravel-from-scratch-2017/) on Laracast explain the setup and installation.<br>
+The first few episodes [(1-4)](https://laracasts.com/series/laravel-from-scratch-2017/) on Laracast explain the setup and installation.<br>
 
